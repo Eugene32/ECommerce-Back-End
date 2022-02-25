@@ -25,7 +25,7 @@ Product.init(
       allowNull: false,
       validate: {
         isDecimal: true,
-        msg: "Must be a decimal",
+        msg: "Value should be a decimal",
       }
     },
     stock: {
@@ -34,7 +34,7 @@ Product.init(
       default: 10,
       validate: {
         isNumeric: true,
-        msg: "Must be an Interger",
+        msg: "Value should be an Integer",
       }
     },
     category_id: {
@@ -42,7 +42,7 @@ Product.init(
       references: {
         model: 'category',
         key: 'id',
-        unique: false
+        //unique: false
       },
     },
   },
