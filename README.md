@@ -58,9 +58,9 @@
 
 ![alt text][logo]
 
-[logo]: Assets/demo/demo_01.gif "Team Generator demo"
+[logo]: Assets/demo/demo_01.gif "E-commerce Back-End demo"
 
-- Video link:  [Video](https://drive.google.com/file/d/1uAgbO0rktKATF7PovuqOLMrshbU4SxQk/view)
+- Video link:  [Video: Category](https://drive.google.com/file/d/19B4631ii8DCcp6Kfj0Kgc1T9vM0cIzfD/view)
 
 ### Questions: 
 
