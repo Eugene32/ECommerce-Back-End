@@ -58,7 +58,7 @@
 
 ![alt text][logo]
 
-[logo]: Assets/demo/demo_01.gif "E-commerce Back-End demo"
+[logo]: Assets/demo/demo-01.gif "E-commerce Back-End demo"
 
 - Video link:  [Video: Category](https://drive.google.com/file/d/1q4l_tl_GvmR4kw3qaUc51PIPfPwQayCi/view)
 - Video link:  [Video: Product](https://drive.google.com/file/d/1hqTTsaCguHt-DdhI8Zmisv2IqU8w9AHK/view)
