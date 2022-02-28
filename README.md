@@ -28,7 +28,7 @@
 - You must have MYSQL and insomnia installed in your computer.
 - Under console, command prompt, or terminal, change to directory where index.js is located.
 - Type 'npm i'.
-- Create .env file on the root directory (where index.js is located).
+- Create .env file on the root directory (where server.js is located).
     - The file must contain the following:
        - DB_NAME=ecommerce_db
        - DB_USER= root
