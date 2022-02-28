@@ -27,13 +27,13 @@
 - Type 'npm i'.
 - Create .env file on the root directory (where server.js is located).
     - The file must contain the following:
-        DB_NAME=ecommerce_db
-        DB_USER= root
-        DB_PW='password'  <--- The "password" refers to your mysql password. 
+       - DB_NAME=ecommerce_db
+       - DB_USER= root
+       - DB_PW='password'  <--- The "password" refers to your mysql password. 
 - Create a .gitignore file (under root directory) and must contain:
-     node_modules
-     .DS_Store
-     .env
+     - node_modules
+     - .DS_Store
+     - .env
 - At the root directory:
     - Type 'npm run seed' on the CLI or Terminal.  This will fill up your database with starting informations.
     - Type 'npm start' to start under CLI or Terminal. Alternatively, should you want to make changes in the code, type 'npm watch' to run the server and be able to change the code without having to restart the server every time.
