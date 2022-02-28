@@ -25,14 +25,14 @@
 
 ### Installation:    
 - Fork or copy the whole directory.
-- You must have MYSQL installed in your computer.
+- You must have MYSQL and insomnia installed in your computer.
 - Under console, command prompt, or terminal, change to directory where index.js is located.
 - Type 'npm i'.
 - Create .env file on the root directory (where index.js is located).
     - The file must contain the following:
-       - DB_NAME=employees_db
+       - DB_NAME=ecommerce_db
        - DB_USER= root
-       - DB_PWD='password'  <--- The "password" refers to your mysql password.
+       - DB_PW='password'  <--- The "password" refers to your mysql password. 
 - Create a .gitignore file as needed and must contain:
     - node_modules
     - .DS_Store
@@ -42,6 +42,7 @@
     - Enter your mysql password.  
     - Once successful, type in your CLI or Terminal "source schema.sql; source seeds.sql;
 - Type 'npm start' to start under CLI or Terminal. Alternatively, should you want to make changes in the code, type 'npm watch' to run the server and be able to change the code without having to restart the server every time.
+- Open insomnia.  The server is will be hosting under localhost:3001.  See demo videos for details.
 
 
 ### Usage:  
